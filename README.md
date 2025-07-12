@@ -4,7 +4,7 @@
 
 ```
 ├── notebooks/                
-│   ├── ;stm_forecasting.ipynb
+│   ├── lstm_forecasting.ipynb
 ```
 
 ## Overview
